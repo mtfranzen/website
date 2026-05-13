@@ -7,10 +7,10 @@ name:
   family: Franzen
   alternate: ''  # Example: 王伟
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns:
 postnominals:
 status:
-  icon: "☕️"
+  icon: ""
 role: Senior ML Engineer
 bio:
 
