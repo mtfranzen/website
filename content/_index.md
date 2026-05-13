@@ -14,7 +14,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Contact Me
-        url: /
+        url: 'mailto:contact@michael-franzen.com'
       headings:
         about: ''
         education: ''
